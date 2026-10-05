@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pytrends-cloud"
+version = "0.1.0"
+description = "Drop-in replacement for pytrends: Google Trends data without 429 errors, from a hosted API."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [{ name = "AutomationNation" }]
+keywords = ["pytrends", "google trends", "google-trends-api", "trends", "keyword research", "seo", "TooManyRequestsError"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+dependencies = ["requests>=2.20", "pandas>=1.0"]
+
+[project.urls]
+Homepage = "https://github.com/retracn/pytrends-cloud"
+Guide = "https://retracn.github.io/automationnation-actors/guides/pytrends-alternative/"
+Issues = "https://github.com/retracn/pytrends-cloud/issues"
+
+[tool.setuptools]
+packages = ["pytrends_cloud"]

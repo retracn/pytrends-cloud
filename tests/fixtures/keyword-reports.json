@@ -1,0 +1,9716 @@
+[
+ {
+  "type": "keyword-report",
+  "searchTerm": "chatgpt",
+  "geo": "Worldwide",
+  "geoName": "Worldwide",
+  "timeRange": "today 3-m",
+  "timeRangeLabel": "Past 90 days",
+  "category": 0,
+  "categoryName": "All categories",
+  "searchType": "Web search",
+  "comparedWith": [
+   "claude"
+  ],
+  "scaledToAnchor": null,
+  "hasData": true,
+  "averageInterest": 72.6,
+  "latestInterest": 64,
+  "peakInterest": 100,
+  "peakDate": "2026-09-09",
+  "lowestInterest": 46,
+  "changePercent": -6.2,
+  "trendDirection": "stable",
+  "summary": "Search interest in \"chatgpt\" (Worldwide, past 90 days) is stable (-6.2% vs the previous period). Scale shared with \"claude\". Peak: 100 on 2026-09-09. Latest: 64, average: 72.6. Most interest: China. Top rising query: \"1980s photo prompt chatgpt\" (+4,250%).",
+  "timeline": [
+   {
+    "date": "2026-07-05",
+    "timestamp": "2026-07-05T00:00:00.000Z",
+    "formattedTime": "Jul 5, 2026",
+    "value": 57,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-06",
+    "timestamp": "2026-07-06T00:00:00.000Z",
+    "formattedTime": "Jul 6, 2026",
+    "value": 77,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-07",
+    "timestamp": "2026-07-07T00:00:00.000Z",
+    "formattedTime": "Jul 7, 2026",
+    "value": 78,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-08",
+    "timestamp": "2026-07-08T00:00:00.000Z",
+    "formattedTime": "Jul 8, 2026",
+    "value": 83,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-09",
+    "timestamp": "2026-07-09T00:00:00.000Z",
+    "formattedTime": "Jul 9, 2026",
+    "value": 79,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-10",
+    "timestamp": "2026-07-10T00:00:00.000Z",
+    "formattedTime": "Jul 10, 2026",
+    "value": 73,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-11",
+    "timestamp": "2026-07-11T00:00:00.000Z",
+    "formattedTime": "Jul 11, 2026",
+    "value": 56,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-12",
+    "timestamp": "2026-07-12T00:00:00.000Z",
+    "formattedTime": "Jul 12, 2026",
+    "value": 57,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-13",
+    "timestamp": "2026-07-13T00:00:00.000Z",
+    "formattedTime": "Jul 13, 2026",
+    "value": 79,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-14",
+    "timestamp": "2026-07-14T00:00:00.000Z",
+    "formattedTime": "Jul 14, 2026",
+    "value": 73,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-15",
+    "timestamp": "2026-07-15T00:00:00.000Z",
+    "formattedTime": "Jul 15, 2026",
+    "value": 84,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-16",
+    "timestamp": "2026-07-16T00:00:00.000Z",
+    "formattedTime": "Jul 16, 2026",
+    "value": 80,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-17",
+    "timestamp": "2026-07-17T00:00:00.000Z",
+    "formattedTime": "Jul 17, 2026",
+    "value": 74,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-18",
+    "timestamp": "2026-07-18T00:00:00.000Z",
+    "formattedTime": "Jul 18, 2026",
+    "value": 58,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-19",
+    "timestamp": "2026-07-19T00:00:00.000Z",
+    "formattedTime": "Jul 19, 2026",
+    "value": 48,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-20",
+    "timestamp": "2026-07-20T00:00:00.000Z",
+    "formattedTime": "Jul 20, 2026",
+    "value": 73,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T00:00:00.000Z",
+    "formattedTime": "Jul 21, 2026",
+    "value": 84,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T00:00:00.000Z",
+    "formattedTime": "Jul 22, 2026",
+    "value": 80,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T00:00:00.000Z",
+    "formattedTime": "Jul 23, 2026",
+    "value": 80,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-24",
+    "timestamp": "2026-07-24T00:00:00.000Z",
+    "formattedTime": "Jul 24, 2026",
+    "value": 76,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-25",
+    "timestamp": "2026-07-25T00:00:00.000Z",
+    "formattedTime": "Jul 25, 2026",
+    "value": 61,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-26",
+    "timestamp": "2026-07-26T00:00:00.000Z",
+    "formattedTime": "Jul 26, 2026",
+    "value": 58,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-27",
+    "timestamp": "2026-07-27T00:00:00.000Z",
+    "formattedTime": "Jul 27, 2026",
+    "value": 80,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-28",
+    "timestamp": "2026-07-28T00:00:00.000Z",
+    "formattedTime": "Jul 28, 2026",
+    "value": 80,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-29",
+    "timestamp": "2026-07-29T00:00:00.000Z",
+    "formattedTime": "Jul 29, 2026",
+    "value": 75,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-30",
+    "timestamp": "2026-07-30T00:00:00.000Z",
+    "formattedTime": "Jul 30, 2026",
+    "value": 79,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-31",
+    "timestamp": "2026-07-31T00:00:00.000Z",
+    "formattedTime": "Jul 31, 2026",
+    "value": 74,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-01",
+    "timestamp": "2026-08-01T00:00:00.000Z",
+    "formattedTime": "Aug 1, 2026",
+    "value": 56,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-02",
+    "timestamp": "2026-08-02T00:00:00.000Z",
+    "formattedTime": "Aug 2, 2026",
+    "value": 54,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-03",
+    "timestamp": "2026-08-03T00:00:00.000Z",
+    "formattedTime": "Aug 3, 2026",
+    "value": 76,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-04",
+    "timestamp": "2026-08-04T00:00:00.000Z",
+    "formattedTime": "Aug 4, 2026",
+    "value": 85,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-05",
+    "timestamp": "2026-08-05T00:00:00.000Z",
+    "formattedTime": "Aug 5, 2026",
+    "value": 83,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-06",
+    "timestamp": "2026-08-06T00:00:00.000Z",
+    "formattedTime": "Aug 6, 2026",
+    "value": 81,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-07",
+    "timestamp": "2026-08-07T00:00:00.000Z",
+    "formattedTime": "Aug 7, 2026",
+    "value": 77,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-08",
+    "timestamp": "2026-08-08T00:00:00.000Z",
+    "formattedTime": "Aug 8, 2026",
+    "value": 63,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-09",
+    "timestamp": "2026-08-09T00:00:00.000Z",
+    "formattedTime": "Aug 9, 2026",
+    "value": 57,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-10",
+    "timestamp": "2026-08-10T00:00:00.000Z",
+    "formattedTime": "Aug 10, 2026",
+    "value": 80,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-11",
+    "timestamp": "2026-08-11T00:00:00.000Z",
+    "formattedTime": "Aug 11, 2026",
+    "value": 82,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-12",
+    "timestamp": "2026-08-12T00:00:00.000Z",
+    "formattedTime": "Aug 12, 2026",
+    "value": 80,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-13",
+    "timestamp": "2026-08-13T00:00:00.000Z",
+    "formattedTime": "Aug 13, 2026",
+    "value": 86,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-14",
+    "timestamp": "2026-08-14T00:00:00.000Z",
+    "formattedTime": "Aug 14, 2026",
+    "value": 77,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-15",
+    "timestamp": "2026-08-15T00:00:00.000Z",
+    "formattedTime": "Aug 15, 2026",
+    "value": 57,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-16",
+    "timestamp": "2026-08-16T00:00:00.000Z",
+    "formattedTime": "Aug 16, 2026",
+    "value": 55,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-17",
+    "timestamp": "2026-08-17T00:00:00.000Z",
+    "formattedTime": "Aug 17, 2026",
+    "value": 82,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-18",
+    "timestamp": "2026-08-18T00:00:00.000Z",
+    "formattedTime": "Aug 18, 2026",
+    "value": 84,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T00:00:00.000Z",
+    "formattedTime": "Aug 19, 2026",
+    "value": 92,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-20",
+    "timestamp": "2026-08-20T00:00:00.000Z",
+    "formattedTime": "Aug 20, 2026",
+    "value": 81,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-21",
+    "timestamp": "2026-08-21T00:00:00.000Z",
+    "formattedTime": "Aug 21, 2026",
+    "value": 80,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-22",
+    "timestamp": "2026-08-22T00:00:00.000Z",
+    "formattedTime": "Aug 22, 2026",
+    "value": 59,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-23",
+    "timestamp": "2026-08-23T00:00:00.000Z",
+    "formattedTime": "Aug 23, 2026",
+    "value": 62,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-24",
+    "timestamp": "2026-08-24T00:00:00.000Z",
+    "formattedTime": "Aug 24, 2026",
+    "value": 84,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-25",
+    "timestamp": "2026-08-25T00:00:00.000Z",
+    "formattedTime": "Aug 25, 2026",
+    "value": 83,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-26",
+    "timestamp": "2026-08-26T00:00:00.000Z",
+    "formattedTime": "Aug 26, 2026",
+    "value": 80,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-27",
+    "timestamp": "2026-08-27T00:00:00.000Z",
+    "formattedTime": "Aug 27, 2026",
+    "value": 80,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-28",
+    "timestamp": "2026-08-28T00:00:00.000Z",
+    "formattedTime": "Aug 28, 2026",
+    "value": 74,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-29",
+    "timestamp": "2026-08-29T00:00:00.000Z",
+    "formattedTime": "Aug 29, 2026",
+    "value": 57,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-30",
+    "timestamp": "2026-08-30T00:00:00.000Z",
+    "formattedTime": "Aug 30, 2026",
+    "value": 56,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-31",
+    "timestamp": "2026-08-31T00:00:00.000Z",
+    "formattedTime": "Aug 31, 2026",
+    "value": 80,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-01",
+    "timestamp": "2026-09-01T00:00:00.000Z",
+    "formattedTime": "Sep 1, 2026",
+    "value": 84,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-02",
+    "timestamp": "2026-09-02T00:00:00.000Z",
+    "formattedTime": "Sep 2, 2026",
+    "value": 87,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-03",
+    "timestamp": "2026-09-03T00:00:00.000Z",
+    "formattedTime": "Sep 3, 2026",
+    "value": 98,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-04",
+    "timestamp": "2026-09-04T00:00:00.000Z",
+    "formattedTime": "Sep 4, 2026",
+    "value": 84,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-05",
+    "timestamp": "2026-09-05T00:00:00.000Z",
+    "formattedTime": "Sep 5, 2026",
+    "value": 64,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-06",
+    "timestamp": "2026-09-06T00:00:00.000Z",
+    "formattedTime": "Sep 6, 2026",
+    "value": 62,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-07",
+    "timestamp": "2026-09-07T00:00:00.000Z",
+    "formattedTime": "Sep 7, 2026",
+    "value": 89,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-08",
+    "timestamp": "2026-09-08T00:00:00.000Z",
+    "formattedTime": "Sep 8, 2026",
+    "value": 96,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T00:00:00.000Z",
+    "formattedTime": "Sep 9, 2026",
+    "value": 100,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-10",
+    "timestamp": "2026-09-10T00:00:00.000Z",
+    "formattedTime": "Sep 10, 2026",
+    "value": 98,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-11",
+    "timestamp": "2026-09-11T00:00:00.000Z",
+    "formattedTime": "Sep 11, 2026",
+    "value": 77,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-12",
+    "timestamp": "2026-09-12T00:00:00.000Z",
+    "formattedTime": "Sep 12, 2026",
+    "value": 55,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-13",
+    "timestamp": "2026-09-13T00:00:00.000Z",
+    "formattedTime": "Sep 13, 2026",
+    "value": 53,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-14",
+    "timestamp": "2026-09-14T00:00:00.000Z",
+    "formattedTime": "Sep 14, 2026",
+    "value": 67,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-15",
+    "timestamp": "2026-09-15T00:00:00.000Z",
+    "formattedTime": "Sep 15, 2026",
+    "value": 67,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T00:00:00.000Z",
+    "formattedTime": "Sep 16, 2026",
+    "value": 69,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-17",
+    "timestamp": "2026-09-17T00:00:00.000Z",
+    "formattedTime": "Sep 17, 2026",
+    "value": 73,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-18",
+    "timestamp": "2026-09-18T00:00:00.000Z",
+    "formattedTime": "Sep 18, 2026",
+    "value": 62,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-19",
+    "timestamp": "2026-09-19T00:00:00.000Z",
+    "formattedTime": "Sep 19, 2026",
+    "value": 54,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-20",
+    "timestamp": "2026-09-20T00:00:00.000Z",
+    "formattedTime": "Sep 20, 2026",
+    "value": 54,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-21",
+    "timestamp": "2026-09-21T00:00:00.000Z",
+    "formattedTime": "Sep 21, 2026",
+    "value": 83,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-22",
+    "timestamp": "2026-09-22T00:00:00.000Z",
+    "formattedTime": "Sep 22, 2026",
+    "value": 72,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-23",
+    "timestamp": "2026-09-23T00:00:00.000Z",
+    "formattedTime": "Sep 23, 2026",
+    "value": 72,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-24",
+    "timestamp": "2026-09-24T00:00:00.000Z",
+    "formattedTime": "Sep 24, 2026",
+    "value": 62,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-25",
+    "timestamp": "2026-09-25T00:00:00.000Z",
+    "formattedTime": "Sep 25, 2026",
+    "value": 59,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-26",
+    "timestamp": "2026-09-26T00:00:00.000Z",
+    "formattedTime": "Sep 26, 2026",
+    "value": 46,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-27",
+    "timestamp": "2026-09-27T00:00:00.000Z",
+    "formattedTime": "Sep 27, 2026",
+    "value": 47,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T00:00:00.000Z",
+    "formattedTime": "Sep 28, 2026",
+    "value": 66,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T00:00:00.000Z",
+    "formattedTime": "Sep 29, 2026",
+    "value": 62,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-30",
+    "timestamp": "2026-09-30T00:00:00.000Z",
+    "formattedTime": "Sep 30, 2026",
+    "value": 83,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-10-01",
+    "timestamp": "2026-10-01T00:00:00.000Z",
+    "formattedTime": "Oct 1, 2026",
+    "value": 92,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-10-02",
+    "timestamp": "2026-10-02T00:00:00.000Z",
+    "formattedTime": "Oct 2, 2026",
+    "value": 80,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-10-03",
+    "timestamp": "2026-10-03T00:00:00.000Z",
+    "formattedTime": "Oct 3, 2026",
+    "value": 63,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-10-04",
+    "timestamp": "2026-10-04T00:00:00.000Z",
+    "formattedTime": "Oct 4, 2026",
+    "value": 64,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-10-05",
+    "timestamp": "2026-10-05T00:00:00.000Z",
+    "formattedTime": "Oct 5, 2026",
+    "value": 98,
+    "isPartial": true,
+    "hasData": true
+   }
+  ],
+  "regionLevel": "COUNTRY",
+  "regions": [
+   {
+    "geoCode": "CN",
+    "name": "China",
+    "value": 100
+   },
+   {
+    "geoCode": "RW",
+    "name": "Rwanda",
+    "value": 86
+   },
+   {
+    "geoCode": "LK",
+    "name": "Sri Lanka",
+    "value": 84
+   },
+   {
+    "geoCode": "NP",
+    "name": "Nepal",
+    "value": 66
+   },
+   {
+    "geoCode": "PH",
+    "name": "Philippines",
+    "value": 64
+   },
+   {
+    "geoCode": "PK",
+    "name": "Pakistan",
+    "value": 63
+   },
+   {
+    "geoCode": "ET",
+    "name": "Ethiopia",
+    "value": 59
+   },
+   {
+    "geoCode": "MY",
+    "name": "Malaysia",
+    "value": 56
+   },
+   {
+    "geoCode": "UZ",
+    "name": "Uzbekistan",
+    "value": 56
+   },
+   {
+    "geoCode": "MM",
+    "name": "Myanmar (Burma)",
+    "value": 55
+   },
+   {
+    "geoCode": "KH",
+    "name": "Cambodia",
+    "value": 54
+   },
+   {
+    "geoCode": "PE",
+    "name": "Peru",
+    "value": 52
+   },
+   {
+    "geoCode": "AE",
+    "name": "United Arab Emirates",
+    "value": 52
+   },
+   {
+    "geoCode": "KE",
+    "name": "Kenya",
+    "value": 48
+   },
+   {
+    "geoCode": "QA",
+    "name": "Qatar",
+    "value": 47
+   },
+   {
+    "geoCode": "EC",
+    "name": "Ecuador",
+    "value": 45
+   },
+   {
+    "geoCode": "BD",
+    "name": "Bangladesh",
+    "value": 44
+   },
+   {
+    "geoCode": "IN",
+    "name": "India",
+    "value": 42
+   },
+   {
+    "geoCode": "TN",
+    "name": "Tunisia",
+    "value": 42
+   },
+   {
+    "geoCode": "PA",
+    "name": "Panama",
+    "value": 42
+   },
+   {
+    "geoCode": "TZ",
+    "name": "Tanzania",
+    "value": 41
+   },
+   {
+    "geoCode": "BO",
+    "name": "Bolivia",
+    "value": 39
+   },
+   {
+    "geoCode": "CO",
+    "name": "Colombia",
+    "value": 36
+   },
+   {
+    "geoCode": "SV",
+    "name": "El Salvador",
+    "value": 36
+   },
+   {
+    "geoCode": "CR",
+    "name": "Costa Rica",
+    "value": 35
+   },
+   {
+    "geoCode": "ZA",
+    "name": "South Africa",
+    "value": 34
+   },
+   {
+    "geoCode": "DO",
+    "name": "Dominican Republic",
+    "value": 32
+   },
+   {
+    "geoCode": "GT",
+    "name": "Guatemala",
+    "value": 32
+   },
+   {
+    "geoCode": "MA",
+    "name": "Morocco",
+    "value": 32
+   },
+   {
+    "geoCode": "SG",
+    "name": "Singapore",
+    "value": 31
+   },
+   {
+    "geoCode": "HN",
+    "name": "Honduras",
+    "value": 29
+   },
+   {
+    "geoCode": "GH",
+    "name": "Ghana",
+    "value": 28
+   },
+   {
+    "geoCode": "AZ",
+    "name": "Azerbaijan",
+    "value": 28
+   },
+   {
+    "geoCode": "ID",
+    "name": "Indonesia",
+    "value": 28
+   },
+   {
+    "geoCode": "BR",
+    "name": "Brazil",
+    "value": 27
+   },
+   {
+    "geoCode": "UG",
+    "name": "Uganda",
+    "value": 26
+   },
+   {
+    "geoCode": "NG",
+    "name": "Nigeria",
+    "value": 25
+   },
+   {
+    "geoCode": "CH",
+    "name": "Switzerland",
+    "value": 24
+   },
+   {
+    "geoCode": "LT",
+    "name": "Lithuania",
+    "value": 24
+   },
+   {
+    "geoCode": "BE",
+    "name": "Belgium",
+    "value": 23
+   },
+   {
+    "geoCode": "DZ",
+    "name": "Algeria",
+    "value": 23
+   },
+   {
+    "geoCode": "PT",
+    "name": "Portugal",
+    "value": 22
+   },
+   {
+    "geoCode": "RS",
+    "name": "Serbia",
+    "value": 22
+   },
+   {
+    "geoCode": "CL",
+    "name": "Chile",
+    "value": 22
+   },
+   {
+    "geoCode": "PY",
+    "name": "Paraguay",
+    "value": 21
+   },
+   {
+    "geoCode": "HU",
+    "name": "Hungary",
+    "value": 21
+   },
+   {
+    "geoCode": "GR",
+    "name": "Greece",
+    "value": 20
+   },
+   {
+    "geoCode": "AU",
+    "name": "Australia",
+    "value": 20
+   },
+   {
+    "geoCode": "NZ",
+    "name": "New Zealand",
+    "value": 20
+   },
+   {
+    "geoCode": "CA",
+    "name": "Canada",
+    "value": 20
+   },
+   {
+    "geoCode": "MX",
+    "name": "Mexico",
+    "value": 19
+   },
+   {
+    "geoCode": "TR",
+    "name": "T\u00fcrkiye",
+    "value": 18
+   },
+   {
+    "geoCode": "ES",
+    "name": "Spain",
+    "value": 18
+   },
+   {
+    "geoCode": "AT",
+    "name": "Austria",
+    "value": 18
+   },
+   {
+    "geoCode": "NL",
+    "name": "Netherlands",
+    "value": 18
+   },
+   {
+    "geoCode": "TW",
+    "name": "Taiwan",
+    "value": 18
+   },
+   {
+    "geoCode": "HR",
+    "name": "Croatia",
+    "value": 18
+   },
+   {
+    "geoCode": "IE",
+    "name": "Ireland",
+    "value": 17
+   },
+   {
+    "geoCode": "DK",
+    "name": "Denmark",
+    "value": 16
+   },
+   {
+    "geoCode": "SK",
+    "name": "Slovakia",
+    "value": 16
+   },
+   {
+    "geoCode": "RO",
+    "name": "Romania",
+    "value": 16
+   },
+   {
+    "geoCode": "DE",
+    "name": "Germany",
+    "value": 15
+   },
+   {
+    "geoCode": "FR",
+    "name": "France",
+    "value": 15
+   },
+   {
+    "geoCode": "IT",
+    "name": "Italy",
+    "value": 15
+   },
+   {
+    "geoCode": "BG",
+    "name": "Bulgaria",
+    "value": 15
+   },
+   {
+    "geoCode": "AR",
+    "name": "Argentina",
+    "value": 15
+   },
+   {
+    "geoCode": "EG",
+    "name": "Egypt",
+    "value": 14
+   },
+   {
+    "geoCode": "SE",
+    "name": "Sweden",
+    "value": 14
+   },
+   {
+    "geoCode": "US",
+    "name": "United States",
+    "value": 13
+   },
+   {
+    "geoCode": "FI",
+    "name": "Finland",
+    "value": 13
+   },
+   {
+    "geoCode": "GB",
+    "name": "United Kingdom",
+    "value": 13
+   },
+   {
+    "geoCode": "SA",
+    "name": "Saudi Arabia",
+    "value": 13
+   },
+   {
+    "geoCode": "NO",
+    "name": "Norway",
+    "value": 12
+   },
+   {
+    "geoCode": "IR",
+    "name": "Iran",
+    "value": 12
+   },
+   {
+    "geoCode": "TH",
+    "name": "Thailand",
+    "value": 12
+   },
+   {
+    "geoCode": "VN",
+    "name": "Vietnam",
+    "value": 11
+   },
+   {
+    "geoCode": "CZ",
+    "name": "Czechia",
+    "value": 10
+   },
+   {
+    "geoCode": "IQ",
+    "name": "Iraq",
+    "value": 8
+   },
+   {
+    "geoCode": "KR",
+    "name": "South Korea",
+    "value": 8
+   },
+   {
+    "geoCode": "IL",
+    "name": "Israel",
+    "value": 8
+   },
+   {
+    "geoCode": "PL",
+    "name": "Poland",
+    "value": 5
+   },
+   {
+    "geoCode": "JP",
+    "name": "Japan",
+    "value": 4
+   },
+   {
+    "geoCode": "UA",
+    "name": "Ukraine",
+    "value": 3
+   },
+   {
+    "geoCode": "RU",
+    "name": "Russia",
+    "value": 2
+   }
+  ],
+  "cities": [],
+  "topQueries": [
+   {
+    "query": "chatgpt ai",
+    "value": 100,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+ai&date=today+3-m"
+   },
+   {
+    "query": "chatgpt free",
+    "value": 57,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+free&date=today+3-m"
+   },
+   {
+    "query": "chatgpt login",
+    "value": 54,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+login&date=today+3-m"
+   },
+   {
+    "query": "openai chatgpt",
+    "value": 50,
+    "link": "https://trends.google.com/trends/explore?q=openai+chatgpt&date=today+3-m"
+   },
+   {
+    "query": "chatgpt web",
+    "value": 50,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+web&date=today+3-m"
+   },
+   {
+    "query": "chatgpt gpt",
+    "value": 28,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+gpt&date=today+3-m"
+   },
+   {
+    "query": "chatgpt app",
+    "value": 27,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+app&date=today+3-m"
+   },
+   {
+    "query": "chatgpt plus",
+    "value": 26,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+plus&date=today+3-m"
+   },
+   {
+    "query": "chatgpt online",
+    "value": 23,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+online&date=today+3-m"
+   },
+   {
+    "query": "chatgpt image",
+    "value": 21,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+image&date=today+3-m"
+   },
+   {
+    "query": "chatgpt download",
+    "value": 21,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+download&date=today+3-m"
+   },
+   {
+    "query": "chatgpt prompt",
+    "value": 17,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+prompt&date=today+3-m"
+   },
+   {
+    "query": "chatgpt work",
+    "value": 17,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+work&date=today+3-m"
+   },
+   {
+    "query": "chatgpt gratis",
+    "value": 14,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+gratis&date=today+3-m"
+   },
+   {
+    "query": "chatgpt go",
+    "value": 13,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+go&date=today+3-m"
+   },
+   {
+    "query": "chatgpt codex",
+    "value": 13,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+codex&date=today+3-m"
+   },
+   {
+    "query": "chatgpt astra",
+    "value": 7,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+astra&date=today+3-m"
+   },
+   {
+    "query": "chatgpt desktop",
+    "value": 5,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+desktop&date=today+3-m"
+   },
+   {
+    "query": "chatgpt deutsch",
+    "value": 4,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+deutsch&date=today+3-m"
+   },
+   {
+    "query": "how to use chatgpt effectively",
+    "value": 4,
+    "link": "https://trends.google.com/trends/explore?q=how+to+use+chatgpt+effectively&date=today+3-m"
+   },
+   {
+    "query": "is chatgpt down",
+    "value": 2,
+    "link": "https://trends.google.com/trends/explore?q=is+chatgpt+down&date=today+3-m"
+   },
+   {
+    "query": "1980s photo prompt chatgpt",
+    "value": 2,
+    "link": "https://trends.google.com/trends/explore?q=1980s+photo+prompt+chatgpt&date=today+3-m"
+   },
+   {
+    "query": "chatgpt .com",
+    "value": 1,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+.com&date=today+3-m"
+   },
+   {
+    "query": "chatgpt.com",
+    "value": 1,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt.com&date=today+3-m"
+   },
+   {
+    "query": "\u0624\u0627\u0634\u0641 chatgpt",
+    "value": 1,
+    "link": "https://trends.google.com/trends/explore?q=%D8%A4%D8%A7%D8%B4%D9%81+chatgpt&date=today+3-m"
+   }
+  ],
+  "risingQueries": [
+   {
+    "query": "1980s photo prompt chatgpt",
+    "growth": "+4,250%",
+    "growthPercent": 4250,
+    "isBreakout": false,
+    "link": "https://trends.google.com/trends/explore?q=1980s+photo+prompt+chatgpt&date=today+3-m"
+   },
+   {
+    "query": "1980s ai photo prompt chatgpt",
+    "growth": "+1,500%",
+    "growthPercent": 1500,
+    "isBreakout": false,
+    "link": "https://trends.google.com/trends/explore?q=1980s+ai+photo+prompt+chatgpt&date=today+3-m"
+   },
+   {
+    "query": "chatgpt astra",
+    "growth": "+1,400%",
+    "growthPercent": 1400,
+    "isBreakout": false,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+astra&date=today+3-m"
+   },
+   {
+    "query": "how to use chatgpt effectively",
+    "growth": "+110%",
+    "growthPercent": 110,
+    "isBreakout": false,
+    "link": "https://trends.google.com/trends/explore?q=how+to+use+chatgpt+effectively&date=today+3-m"
+   },
+   {
+    "query": "chatgpt work",
+    "growth": "+60%",
+    "growthPercent": 60,
+    "isBreakout": false,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+work&date=today+3-m"
+   }
+  ],
+  "topTopics": [],
+  "risingTopics": [],
+  "notes": [],
+  "trendsUrl": "https://trends.google.com/trends/explore?date=today+3-m&q=chatgpt%2Cclaude&hl=en-US",
+  "scrapedAt": "2026-10-05T14:42:34.323Z",
+  "inputUrlOrTerm": "chatgpt,claude",
+  "interestBySubregion": [
+   {
+    "geoCode": "BT",
+    "geoName": "Bhutan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "VU",
+    "geoName": "Vanuatu",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CN",
+    "geoName": "China",
+    "value": [
+     100
+    ],
+    "formattedValue": [
+     "100"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "KI",
+    "geoName": "Kiribati",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "FJ",
+    "geoName": "Fiji",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SB",
+    "geoName": "Solomon Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "RW",
+    "geoName": "Rwanda",
+    "value": [
+     86
+    ],
+    "formattedValue": [
+     "86"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "LK",
+    "geoName": "Sri Lanka",
+    "value": [
+     84
+    ],
+    "formattedValue": [
+     "84"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "WS",
+    "geoName": "Samoa",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MG",
+    "geoName": "Madagascar",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AS",
+    "geoName": "American Samoa",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CV",
+    "geoName": "Cape Verde",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TO",
+    "geoName": "Tonga",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NA",
+    "geoName": "Namibia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NP",
+    "geoName": "Nepal",
+    "value": [
+     66
+    ],
+    "formattedValue": [
+     "66"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "PH",
+    "geoName": "Philippines",
+    "value": [
+     64
+    ],
+    "formattedValue": [
+     "64"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "ER",
+    "geoName": "Eritrea",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PK",
+    "geoName": "Pakistan",
+    "value": [
+     63
+    ],
+    "formattedValue": [
+     "63"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "CK",
+    "geoName": "Cook Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "ET",
+    "geoName": "Ethiopia",
+    "value": [
+     59
+    ],
+    "formattedValue": [
+     "59"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "SO",
+    "geoName": "Somalia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TV",
+    "geoName": "Tuvalu",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MN",
+    "geoName": "Mongolia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "XK",
+    "geoName": "Kosovo",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MY",
+    "geoName": "Malaysia",
+    "value": [
+     56
+    ],
+    "formattedValue": [
+     "56"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "UZ",
+    "geoName": "Uzbekistan",
+    "value": [
+     56
+    ],
+    "formattedValue": [
+     "56"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "MM",
+    "geoName": "Myanmar (Burma)",
+    "value": [
+     55
+    ],
+    "formattedValue": [
+     "55"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "KH",
+    "geoName": "Cambodia",
+    "value": [
+     54
+    ],
+    "formattedValue": [
+     "54"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "SC",
+    "geoName": "Seychelles",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MU",
+    "geoName": "Mauritius",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MV",
+    "geoName": "Maldives",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PE",
+    "geoName": "Peru",
+    "value": [
+     52
+    ],
+    "formattedValue": [
+     "52"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "AE",
+    "geoName": "United Arab Emirates",
+    "value": [
+     52
+    ],
+    "formattedValue": [
+     "52"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "BI",
+    "geoName": "Burundi",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TL",
+    "geoName": "Timor-Leste",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "FM",
+    "geoName": "Micronesia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BW",
+    "geoName": "Botswana",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BZ",
+    "geoName": "Belize",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "KE",
+    "geoName": "Kenya",
+    "value": [
+     48
+    ],
+    "formattedValue": [
+     "48"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "QA",
+    "geoName": "Qatar",
+    "value": [
+     47
+    ],
+    "formattedValue": [
+     "47"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "PW",
+    "geoName": "Palau",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "WF",
+    "geoName": "Wallis & Futuna",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "EC",
+    "geoName": "Ecuador",
+    "value": [
+     45
+    ],
+    "formattedValue": [
+     "45"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "BD",
+    "geoName": "Bangladesh",
+    "value": [
+     44
+    ],
+    "formattedValue": [
+     "44"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "BN",
+    "geoName": "Brunei",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SS",
+    "geoName": "South Sudan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "DJ",
+    "geoName": "Djibouti",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "IN",
+    "geoName": "India",
+    "value": [
+     42
+    ],
+    "formattedValue": [
+     "42"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "TN",
+    "geoName": "Tunisia",
+    "value": [
+     42
+    ],
+    "formattedValue": [
+     "42"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "PA",
+    "geoName": "Panama",
+    "value": [
+     42
+    ],
+    "formattedValue": [
+     "42"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "AL",
+    "geoName": "Albania",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GD",
+    "geoName": "Grenada",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TZ",
+    "geoName": "Tanzania",
+    "value": [
+     41
+    ],
+    "formattedValue": [
+     "41"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "MS",
+    "geoName": "Montserrat",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BQ",
+    "geoName": "Caribbean Netherlands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PG",
+    "geoName": "Papua New Guinea",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AF",
+    "geoName": "Afghanistan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "ST",
+    "geoName": "S\u00e3o Tom\u00e9 & Pr\u00edncipe",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SR",
+    "geoName": "Suriname",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BO",
+    "geoName": "Bolivia",
+    "value": [
+     39
+    ],
+    "formattedValue": [
+     "39"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "MH",
+    "geoName": "Marshall Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AI",
+    "geoName": "Anguilla",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "LS",
+    "geoName": "Lesotho",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "DM",
+    "geoName": "Dominica",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "LC",
+    "geoName": "St. Lucia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CO",
+    "geoName": "Colombia",
+    "value": [
+     36
+    ],
+    "formattedValue": [
+     "36"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "SV",
+    "geoName": "El Salvador",
+    "value": [
+     36
+    ],
+    "formattedValue": [
+     "36"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "CR",
+    "geoName": "Costa Rica",
+    "value": [
+     35
+    ],
+    "formattedValue": [
+     "35"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "VC",
+    "geoName": "St. Vincent & Grenadines",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MK",
+    "geoName": "North Macedonia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "ZA",
+    "geoName": "South Africa",
+    "value": [
+     34
+    ],
+    "formattedValue": [
+     "34"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "LR",
+    "geoName": "Liberia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CW",
+    "geoName": "Cura\u00e7ao",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BH",
+    "geoName": "Bahrain",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MP",
+    "geoName": "Northern Mariana Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SZ",
+    "geoName": "Eswatini",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "DO",
+    "geoName": "Dominican Republic",
+    "value": [
+     32
+    ],
+    "formattedValue": [
+     "32"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "MT",
+    "geoName": "Malta",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GT",
+    "geoName": "Guatemala",
+    "value": [
+     32
+    ],
+    "formattedValue": [
+     "32"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "LB",
+    "geoName": "Lebanon",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MA",
+    "geoName": "Morocco",
+    "value": [
+     32
+    ],
+    "formattedValue": [
+     "32"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "SG",
+    "geoName": "Singapore",
+    "value": [
+     31
+    ],
+    "formattedValue": [
+     "31"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "JM",
+    "geoName": "Jamaica",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GI",
+    "geoName": "Gibraltar",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TC",
+    "geoName": "Turks & Caicos Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NC",
+    "geoName": "New Caledonia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MW",
+    "geoName": "Malawi",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MZ",
+    "geoName": "Mozambique",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BJ",
+    "geoName": "Benin",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "VG",
+    "geoName": "British Virgin Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "OM",
+    "geoName": "Oman",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "HN",
+    "geoName": "Honduras",
+    "value": [
+     29
+    ],
+    "formattedValue": [
+     "29"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "PF",
+    "geoName": "French Polynesia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GH",
+    "geoName": "Ghana",
+    "value": [
+     28
+    ],
+    "formattedValue": [
+     "28"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "LI",
+    "geoName": "Liechtenstein",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "HT",
+    "geoName": "Haiti",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AZ",
+    "geoName": "Azerbaijan",
+    "value": [
+     28
+    ],
+    "formattedValue": [
+     "28"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "KY",
+    "geoName": "Cayman Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "ID",
+    "geoName": "Indonesia",
+    "value": [
+     28
+    ],
+    "formattedValue": [
+     "28"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "AG",
+    "geoName": "Antigua & Barbuda",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "LU",
+    "geoName": "Luxembourg",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BR",
+    "geoName": "Brazil",
+    "value": [
+     27
+    ],
+    "formattedValue": [
+     "27"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "AO",
+    "geoName": "Angola",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AW",
+    "geoName": "Aruba",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NI",
+    "geoName": "Nicaragua",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "UG",
+    "geoName": "Uganda",
+    "value": [
+     26
+    ],
+    "formattedValue": [
+     "26"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "CG",
+    "geoName": "Congo - Brazzaville",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "KM",
+    "geoName": "Comoros",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CY",
+    "geoName": "Cyprus",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SX",
+    "geoName": "Sint Maarten",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BA",
+    "geoName": "Bosnia & Herzegovina",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TT",
+    "geoName": "Trinidad & Tobago",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "ZW",
+    "geoName": "Zimbabwe",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AM",
+    "geoName": "Armenia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "KN",
+    "geoName": "St. Kitts & Nevis",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GF",
+    "geoName": "French Guiana",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SL",
+    "geoName": "Sierra Leone",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NG",
+    "geoName": "Nigeria",
+    "value": [
+     25
+    ],
+    "formattedValue": [
+     "25"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "YT",
+    "geoName": "Mayotte",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "EH",
+    "geoName": "Western Sahara",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CH",
+    "geoName": "Switzerland",
+    "value": [
+     24
+    ],
+    "formattedValue": [
+     "24"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "BS",
+    "geoName": "Bahamas",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "LT",
+    "geoName": "Lithuania",
+    "value": [
+     24
+    ],
+    "formattedValue": [
+     "24"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "GY",
+    "geoName": "Guyana",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TG",
+    "geoName": "Togo",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SN",
+    "geoName": "Senegal",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BB",
+    "geoName": "Barbados",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "ME",
+    "geoName": "Montenegro",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BE",
+    "geoName": "Belgium",
+    "value": [
+     23
+    ],
+    "formattedValue": [
+     "23"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "AD",
+    "geoName": "Andorra",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "DZ",
+    "geoName": "Algeria",
+    "value": [
+     23
+    ],
+    "formattedValue": [
+     "23"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "SM",
+    "geoName": "San Marino",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PT",
+    "geoName": "Portugal",
+    "value": [
+     22
+    ],
+    "formattedValue": [
+     "22"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "GU",
+    "geoName": "Guam",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "ZM",
+    "geoName": "Zambia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "RS",
+    "geoName": "Serbia",
+    "value": [
+     22
+    ],
+    "formattedValue": [
+     "22"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "EE",
+    "geoName": "Estonia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CL",
+    "geoName": "Chile",
+    "value": [
+     22
+    ],
+    "formattedValue": [
+     "22"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "MF",
+    "geoName": "St. Martin",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CI",
+    "geoName": "C\u00f4te d\u2019Ivoire",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PY",
+    "geoName": "Paraguay",
+    "value": [
+     21
+    ],
+    "formattedValue": [
+     "21"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "HU",
+    "geoName": "Hungary",
+    "value": [
+     21
+    ],
+    "formattedValue": [
+     "21"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "GE",
+    "geoName": "Georgia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PR",
+    "geoName": "Puerto Rico",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GR",
+    "geoName": "Greece",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "GA",
+    "geoName": "Gabon",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AU",
+    "geoName": "Australia",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "NZ",
+    "geoName": "New Zealand",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "SI",
+    "geoName": "Slovenia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CA",
+    "geoName": "Canada",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "VI",
+    "geoName": "U.S. Virgin Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "RE",
+    "geoName": "R\u00e9union",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GW",
+    "geoName": "Guinea-Bissau",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "KW",
+    "geoName": "Kuwait",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MX",
+    "geoName": "Mexico",
+    "value": [
+     19
+    ],
+    "formattedValue": [
+     "19"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "TR",
+    "geoName": "T\u00fcrkiye",
+    "value": [
+     18
+    ],
+    "formattedValue": [
+     "18"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "ES",
+    "geoName": "Spain",
+    "value": [
+     18
+    ],
+    "formattedValue": [
+     "18"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "GM",
+    "geoName": "Gambia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AT",
+    "geoName": "Austria",
+    "value": [
+     18
+    ],
+    "formattedValue": [
+     "18"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "LV",
+    "geoName": "Latvia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NL",
+    "geoName": "Netherlands",
+    "value": [
+     18
+    ],
+    "formattedValue": [
+     "18"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "GP",
+    "geoName": "Guadeloupe",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TW",
+    "geoName": "Taiwan",
+    "value": [
+     18
+    ],
+    "formattedValue": [
+     "18"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "HR",
+    "geoName": "Croatia",
+    "value": [
+     18
+    ],
+    "formattedValue": [
+     "18"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "GN",
+    "geoName": "Guinea",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GL",
+    "geoName": "Greenland",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CF",
+    "geoName": "Central African Republic",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GQ",
+    "geoName": "Equatorial Guinea",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "IE",
+    "geoName": "Ireland",
+    "value": [
+     17
+    ],
+    "formattedValue": [
+     "17"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "JO",
+    "geoName": "Jordan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "DK",
+    "geoName": "Denmark",
+    "value": [
+     16
+    ],
+    "formattedValue": [
+     "16"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "PS",
+    "geoName": "Palestine",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SK",
+    "geoName": "Slovakia",
+    "value": [
+     16
+    ],
+    "formattedValue": [
+     "16"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "RO",
+    "geoName": "Romania",
+    "value": [
+     16
+    ],
+    "formattedValue": [
+     "16"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "BM",
+    "geoName": "Bermuda",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MQ",
+    "geoName": "Martinique",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "FO",
+    "geoName": "Faroe Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "UY",
+    "geoName": "Uruguay",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "DE",
+    "geoName": "Germany",
+    "value": [
+     15
+    ],
+    "formattedValue": [
+     "15"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "FR",
+    "geoName": "France",
+    "value": [
+     15
+    ],
+    "formattedValue": [
+     "15"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "IT",
+    "geoName": "Italy",
+    "value": [
+     15
+    ],
+    "formattedValue": [
+     "15"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "BL",
+    "geoName": "St. Barth\u00e9lemy",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BF",
+    "geoName": "Burkina Faso",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BG",
+    "geoName": "Bulgaria",
+    "value": [
+     15
+    ],
+    "formattedValue": [
+     "15"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "MD",
+    "geoName": "Moldova",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AR",
+    "geoName": "Argentina",
+    "value": [
+     15
+    ],
+    "formattedValue": [
+     "15"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "CM",
+    "geoName": "Cameroon",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "EG",
+    "geoName": "Egypt",
+    "value": [
+     14
+    ],
+    "formattedValue": [
+     "14"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "SE",
+    "geoName": "Sweden",
+    "value": [
+     14
+    ],
+    "formattedValue": [
+     "14"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US",
+    "geoName": "United States",
+    "value": [
+     13
+    ],
+    "formattedValue": [
+     "13"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "FI",
+    "geoName": "Finland",
+    "value": [
+     13
+    ],
+    "formattedValue": [
+     "13"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "MR",
+    "geoName": "Mauritania",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "JE",
+    "geoName": "Jersey",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GB",
+    "geoName": "United Kingdom",
+    "value": [
+     13
+    ],
+    "formattedValue": [
+     "13"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "IS",
+    "geoName": "Iceland",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SJ",
+    "geoName": "Svalbard & Jan Mayen",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SA",
+    "geoName": "Saudi Arabia",
+    "value": [
+     13
+    ],
+    "formattedValue": [
+     "13"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "NO",
+    "geoName": "Norway",
+    "value": [
+     12
+    ],
+    "formattedValue": [
+     "12"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "ML",
+    "geoName": "Mali",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "IM",
+    "geoName": "Isle of Man",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "LA",
+    "geoName": "Laos",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "IR",
+    "geoName": "Iran",
+    "value": [
+     12
+    ],
+    "formattedValue": [
+     "12"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "TH",
+    "geoName": "Thailand",
+    "value": [
+     12
+    ],
+    "formattedValue": [
+     "12"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "NU",
+    "geoName": "Niue",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "VN",
+    "geoName": "Vietnam",
+    "value": [
+     11
+    ],
+    "formattedValue": [
+     "11"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "NE",
+    "geoName": "Niger",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GG",
+    "geoName": "Guernsey",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CD",
+    "geoName": "Congo - Kinshasa",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AX",
+    "geoName": "\u00c5land Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CZ",
+    "geoName": "Czechia",
+    "value": [
+     10
+    ],
+    "formattedValue": [
+     "10"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "TD",
+    "geoName": "Chad",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "IQ",
+    "geoName": "Iraq",
+    "value": [
+     8
+    ],
+    "formattedValue": [
+     "8"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "KR",
+    "geoName": "South Korea",
+    "value": [
+     8
+    ],
+    "formattedValue": [
+     "8"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "IL",
+    "geoName": "Israel",
+    "value": [
+     8
+    ],
+    "formattedValue": [
+     "8"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "HK",
+    "geoName": "Hong Kong",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TJ",
+    "geoName": "Tajikistan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CU",
+    "geoName": "Cuba",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "KZ",
+    "geoName": "Kazakhstan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "LY",
+    "geoName": "Libya",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "KG",
+    "geoName": "Kyrgyzstan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "YE",
+    "geoName": "Yemen",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PL",
+    "geoName": "Poland",
+    "value": [
+     5
+    ],
+    "formattedValue": [
+     "5"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "JP",
+    "geoName": "Japan",
+    "value": [
+     4
+    ],
+    "formattedValue": [
+     "4"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "MO",
+    "geoName": "Macao",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SD",
+    "geoName": "Sudan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PM",
+    "geoName": "St. Pierre & Miquelon",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "UA",
+    "geoName": "Ukraine",
+    "value": [
+     3
+    ],
+    "formattedValue": [
+     "3"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "TM",
+    "geoName": "Turkmenistan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SH",
+    "geoName": "St. Helena",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "RU",
+    "geoName": "Russia",
+    "value": [
+     2
+    ],
+    "formattedValue": [
+     "2"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "VE",
+    "geoName": "Venezuela",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SY",
+    "geoName": "Syria",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "FK",
+    "geoName": "Falkland Islands (Islas Malvinas)",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BY",
+    "geoName": "Belarus",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GS",
+    "geoName": "South Georgia & South Sandwich Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "UM",
+    "geoName": "U.S. Outlying Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "VA",
+    "geoName": "Vatican City",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CC",
+    "geoName": "Cocos (Keeling) Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MC",
+    "geoName": "Monaco",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TF",
+    "geoName": "French Southern Territories",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BV",
+    "geoName": "Bouvet Island",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "KP",
+    "geoName": "North Korea",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AQ",
+    "geoName": "Antarctica",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "HM",
+    "geoName": "Heard & McDonald Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NF",
+    "geoName": "Norfolk Island",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CX",
+    "geoName": "Christmas Island",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TK",
+    "geoName": "Tokelau",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PN",
+    "geoName": "Pitcairn Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "IO",
+    "geoName": "British Indian Ocean Territory",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NR",
+    "geoName": "Nauru",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   }
+  ],
+  "interestByCity": []
+ },
+ {
+  "type": "keyword-report",
+  "searchTerm": "claude",
+  "geo": "Worldwide",
+  "geoName": "Worldwide",
+  "timeRange": "today 3-m",
+  "timeRangeLabel": "Past 90 days",
+  "category": 0,
+  "categoryName": "All categories",
+  "searchType": "Web search",
+  "comparedWith": [
+   "chatgpt"
+  ],
+  "scaledToAnchor": null,
+  "hasData": true,
+  "averageInterest": 16.6,
+  "latestInterest": 16,
+  "peakInterest": 24,
+  "peakDate": "2026-07-08",
+  "lowestInterest": 11,
+  "changePercent": 6.9,
+  "trendDirection": "stable",
+  "summary": "Search interest in \"claude\" (Worldwide, past 90 days) is stable (+6.9% vs the previous period). Scale shared with \"chatgpt\". Peak: 24 on 2026-07-08. Latest: 16, average: 16.6. Most interest: Madagascar. Top rising query: \"kimi k3\" (Breakout).",
+  "timeline": [
+   {
+    "date": "2026-07-05",
+    "timestamp": "2026-07-05T00:00:00.000Z",
+    "formattedTime": "Jul 5, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-06",
+    "timestamp": "2026-07-06T00:00:00.000Z",
+    "formattedTime": "Jul 6, 2026",
+    "value": 22,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-07",
+    "timestamp": "2026-07-07T00:00:00.000Z",
+    "formattedTime": "Jul 7, 2026",
+    "value": 21,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-08",
+    "timestamp": "2026-07-08T00:00:00.000Z",
+    "formattedTime": "Jul 8, 2026",
+    "value": 24,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-09",
+    "timestamp": "2026-07-09T00:00:00.000Z",
+    "formattedTime": "Jul 9, 2026",
+    "value": 21,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-10",
+    "timestamp": "2026-07-10T00:00:00.000Z",
+    "formattedTime": "Jul 10, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-11",
+    "timestamp": "2026-07-11T00:00:00.000Z",
+    "formattedTime": "Jul 11, 2026",
+    "value": 14,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-12",
+    "timestamp": "2026-07-12T00:00:00.000Z",
+    "formattedTime": "Jul 12, 2026",
+    "value": 15,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-13",
+    "timestamp": "2026-07-13T00:00:00.000Z",
+    "formattedTime": "Jul 13, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-14",
+    "timestamp": "2026-07-14T00:00:00.000Z",
+    "formattedTime": "Jul 14, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-15",
+    "timestamp": "2026-07-15T00:00:00.000Z",
+    "formattedTime": "Jul 15, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-16",
+    "timestamp": "2026-07-16T00:00:00.000Z",
+    "formattedTime": "Jul 16, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-17",
+    "timestamp": "2026-07-17T00:00:00.000Z",
+    "formattedTime": "Jul 17, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-18",
+    "timestamp": "2026-07-18T00:00:00.000Z",
+    "formattedTime": "Jul 18, 2026",
+    "value": 14,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-19",
+    "timestamp": "2026-07-19T00:00:00.000Z",
+    "formattedTime": "Jul 19, 2026",
+    "value": 11,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-20",
+    "timestamp": "2026-07-20T00:00:00.000Z",
+    "formattedTime": "Jul 20, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T00:00:00.000Z",
+    "formattedTime": "Jul 21, 2026",
+    "value": 20,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-22",
+    "timestamp": "2026-07-22T00:00:00.000Z",
+    "formattedTime": "Jul 22, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-23",
+    "timestamp": "2026-07-23T00:00:00.000Z",
+    "formattedTime": "Jul 23, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-24",
+    "timestamp": "2026-07-24T00:00:00.000Z",
+    "formattedTime": "Jul 24, 2026",
+    "value": 18,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-25",
+    "timestamp": "2026-07-25T00:00:00.000Z",
+    "formattedTime": "Jul 25, 2026",
+    "value": 14,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-26",
+    "timestamp": "2026-07-26T00:00:00.000Z",
+    "formattedTime": "Jul 26, 2026",
+    "value": 15,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-27",
+    "timestamp": "2026-07-27T00:00:00.000Z",
+    "formattedTime": "Jul 27, 2026",
+    "value": 20,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-28",
+    "timestamp": "2026-07-28T00:00:00.000Z",
+    "formattedTime": "Jul 28, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-29",
+    "timestamp": "2026-07-29T00:00:00.000Z",
+    "formattedTime": "Jul 29, 2026",
+    "value": 20,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-30",
+    "timestamp": "2026-07-30T00:00:00.000Z",
+    "formattedTime": "Jul 30, 2026",
+    "value": 18,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-07-31",
+    "timestamp": "2026-07-31T00:00:00.000Z",
+    "formattedTime": "Jul 31, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-01",
+    "timestamp": "2026-08-01T00:00:00.000Z",
+    "formattedTime": "Aug 1, 2026",
+    "value": 13,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-02",
+    "timestamp": "2026-08-02T00:00:00.000Z",
+    "formattedTime": "Aug 2, 2026",
+    "value": 13,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-03",
+    "timestamp": "2026-08-03T00:00:00.000Z",
+    "formattedTime": "Aug 3, 2026",
+    "value": 18,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-04",
+    "timestamp": "2026-08-04T00:00:00.000Z",
+    "formattedTime": "Aug 4, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-05",
+    "timestamp": "2026-08-05T00:00:00.000Z",
+    "formattedTime": "Aug 5, 2026",
+    "value": 18,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-06",
+    "timestamp": "2026-08-06T00:00:00.000Z",
+    "formattedTime": "Aug 6, 2026",
+    "value": 18,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-07",
+    "timestamp": "2026-08-07T00:00:00.000Z",
+    "formattedTime": "Aug 7, 2026",
+    "value": 15,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-08",
+    "timestamp": "2026-08-08T00:00:00.000Z",
+    "formattedTime": "Aug 8, 2026",
+    "value": 12,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-09",
+    "timestamp": "2026-08-09T00:00:00.000Z",
+    "formattedTime": "Aug 9, 2026",
+    "value": 13,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-10",
+    "timestamp": "2026-08-10T00:00:00.000Z",
+    "formattedTime": "Aug 10, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-11",
+    "timestamp": "2026-08-11T00:00:00.000Z",
+    "formattedTime": "Aug 11, 2026",
+    "value": 18,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-12",
+    "timestamp": "2026-08-12T00:00:00.000Z",
+    "formattedTime": "Aug 12, 2026",
+    "value": 18,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-13",
+    "timestamp": "2026-08-13T00:00:00.000Z",
+    "formattedTime": "Aug 13, 2026",
+    "value": 16,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-14",
+    "timestamp": "2026-08-14T00:00:00.000Z",
+    "formattedTime": "Aug 14, 2026",
+    "value": 16,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-15",
+    "timestamp": "2026-08-15T00:00:00.000Z",
+    "formattedTime": "Aug 15, 2026",
+    "value": 12,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-16",
+    "timestamp": "2026-08-16T00:00:00.000Z",
+    "formattedTime": "Aug 16, 2026",
+    "value": 13,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-17",
+    "timestamp": "2026-08-17T00:00:00.000Z",
+    "formattedTime": "Aug 17, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-18",
+    "timestamp": "2026-08-18T00:00:00.000Z",
+    "formattedTime": "Aug 18, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-19",
+    "timestamp": "2026-08-19T00:00:00.000Z",
+    "formattedTime": "Aug 19, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-20",
+    "timestamp": "2026-08-20T00:00:00.000Z",
+    "formattedTime": "Aug 20, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-21",
+    "timestamp": "2026-08-21T00:00:00.000Z",
+    "formattedTime": "Aug 21, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-22",
+    "timestamp": "2026-08-22T00:00:00.000Z",
+    "formattedTime": "Aug 22, 2026",
+    "value": 12,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-23",
+    "timestamp": "2026-08-23T00:00:00.000Z",
+    "formattedTime": "Aug 23, 2026",
+    "value": 12,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-24",
+    "timestamp": "2026-08-24T00:00:00.000Z",
+    "formattedTime": "Aug 24, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-25",
+    "timestamp": "2026-08-25T00:00:00.000Z",
+    "formattedTime": "Aug 25, 2026",
+    "value": 18,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-26",
+    "timestamp": "2026-08-26T00:00:00.000Z",
+    "formattedTime": "Aug 26, 2026",
+    "value": 16,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-27",
+    "timestamp": "2026-08-27T00:00:00.000Z",
+    "formattedTime": "Aug 27, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-28",
+    "timestamp": "2026-08-28T00:00:00.000Z",
+    "formattedTime": "Aug 28, 2026",
+    "value": 15,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-29",
+    "timestamp": "2026-08-29T00:00:00.000Z",
+    "formattedTime": "Aug 29, 2026",
+    "value": 12,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-30",
+    "timestamp": "2026-08-30T00:00:00.000Z",
+    "formattedTime": "Aug 30, 2026",
+    "value": 13,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-08-31",
+    "timestamp": "2026-08-31T00:00:00.000Z",
+    "formattedTime": "Aug 31, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-01",
+    "timestamp": "2026-09-01T00:00:00.000Z",
+    "formattedTime": "Sep 1, 2026",
+    "value": 18,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-02",
+    "timestamp": "2026-09-02T00:00:00.000Z",
+    "formattedTime": "Sep 2, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-03",
+    "timestamp": "2026-09-03T00:00:00.000Z",
+    "formattedTime": "Sep 3, 2026",
+    "value": 21,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-04",
+    "timestamp": "2026-09-04T00:00:00.000Z",
+    "formattedTime": "Sep 4, 2026",
+    "value": 16,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-05",
+    "timestamp": "2026-09-05T00:00:00.000Z",
+    "formattedTime": "Sep 5, 2026",
+    "value": 13,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-06",
+    "timestamp": "2026-09-06T00:00:00.000Z",
+    "formattedTime": "Sep 6, 2026",
+    "value": 13,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-07",
+    "timestamp": "2026-09-07T00:00:00.000Z",
+    "formattedTime": "Sep 7, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-08",
+    "timestamp": "2026-09-08T00:00:00.000Z",
+    "formattedTime": "Sep 8, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-09",
+    "timestamp": "2026-09-09T00:00:00.000Z",
+    "formattedTime": "Sep 9, 2026",
+    "value": 19,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-10",
+    "timestamp": "2026-09-10T00:00:00.000Z",
+    "formattedTime": "Sep 10, 2026",
+    "value": 18,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-11",
+    "timestamp": "2026-09-11T00:00:00.000Z",
+    "formattedTime": "Sep 11, 2026",
+    "value": 16,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-12",
+    "timestamp": "2026-09-12T00:00:00.000Z",
+    "formattedTime": "Sep 12, 2026",
+    "value": 12,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-13",
+    "timestamp": "2026-09-13T00:00:00.000Z",
+    "formattedTime": "Sep 13, 2026",
+    "value": 11,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-14",
+    "timestamp": "2026-09-14T00:00:00.000Z",
+    "formattedTime": "Sep 14, 2026",
+    "value": 16,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-15",
+    "timestamp": "2026-09-15T00:00:00.000Z",
+    "formattedTime": "Sep 15, 2026",
+    "value": 16,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-16",
+    "timestamp": "2026-09-16T00:00:00.000Z",
+    "formattedTime": "Sep 16, 2026",
+    "value": 16,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-17",
+    "timestamp": "2026-09-17T00:00:00.000Z",
+    "formattedTime": "Sep 17, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-18",
+    "timestamp": "2026-09-18T00:00:00.000Z",
+    "formattedTime": "Sep 18, 2026",
+    "value": 15,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-19",
+    "timestamp": "2026-09-19T00:00:00.000Z",
+    "formattedTime": "Sep 19, 2026",
+    "value": 11,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-20",
+    "timestamp": "2026-09-20T00:00:00.000Z",
+    "formattedTime": "Sep 20, 2026",
+    "value": 11,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-21",
+    "timestamp": "2026-09-21T00:00:00.000Z",
+    "formattedTime": "Sep 21, 2026",
+    "value": 13,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-22",
+    "timestamp": "2026-09-22T00:00:00.000Z",
+    "formattedTime": "Sep 22, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-23",
+    "timestamp": "2026-09-23T00:00:00.000Z",
+    "formattedTime": "Sep 23, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-24",
+    "timestamp": "2026-09-24T00:00:00.000Z",
+    "formattedTime": "Sep 24, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-25",
+    "timestamp": "2026-09-25T00:00:00.000Z",
+    "formattedTime": "Sep 25, 2026",
+    "value": 16,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-26",
+    "timestamp": "2026-09-26T00:00:00.000Z",
+    "formattedTime": "Sep 26, 2026",
+    "value": 12,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-27",
+    "timestamp": "2026-09-27T00:00:00.000Z",
+    "formattedTime": "Sep 27, 2026",
+    "value": 12,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-28",
+    "timestamp": "2026-09-28T00:00:00.000Z",
+    "formattedTime": "Sep 28, 2026",
+    "value": 17,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-29",
+    "timestamp": "2026-09-29T00:00:00.000Z",
+    "formattedTime": "Sep 29, 2026",
+    "value": 20,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-09-30",
+    "timestamp": "2026-09-30T00:00:00.000Z",
+    "formattedTime": "Sep 30, 2026",
+    "value": 20,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-10-01",
+    "timestamp": "2026-10-01T00:00:00.000Z",
+    "formattedTime": "Oct 1, 2026",
+    "value": 21,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-10-02",
+    "timestamp": "2026-10-02T00:00:00.000Z",
+    "formattedTime": "Oct 2, 2026",
+    "value": 18,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-10-03",
+    "timestamp": "2026-10-03T00:00:00.000Z",
+    "formattedTime": "Oct 3, 2026",
+    "value": 15,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-10-04",
+    "timestamp": "2026-10-04T00:00:00.000Z",
+    "formattedTime": "Oct 4, 2026",
+    "value": 16,
+    "isPartial": false,
+    "hasData": true
+   },
+   {
+    "date": "2026-10-05",
+    "timestamp": "2026-10-05T00:00:00.000Z",
+    "formattedTime": "Oct 5, 2026",
+    "value": 22,
+    "isPartial": true,
+    "hasData": true
+   }
+  ],
+  "regionLevel": "COUNTRY",
+  "regions": [
+   {
+    "geoCode": "MG",
+    "name": "Madagascar",
+    "value": 100
+   },
+   {
+    "geoCode": "CN",
+    "name": "China",
+    "value": 95
+   },
+   {
+    "geoCode": "PK",
+    "name": "Pakistan",
+    "value": 52
+   },
+   {
+    "geoCode": "LK",
+    "name": "Sri Lanka",
+    "value": 46
+   },
+   {
+    "geoCode": "SG",
+    "name": "Singapore",
+    "value": 45
+   },
+   {
+    "geoCode": "NP",
+    "name": "Nepal",
+    "value": 41
+   },
+   {
+    "geoCode": "KE",
+    "name": "Kenya",
+    "value": 41
+   },
+   {
+    "geoCode": "TN",
+    "name": "Tunisia",
+    "value": 40
+   },
+   {
+    "geoCode": "PE",
+    "name": "Peru",
+    "value": 40
+   },
+   {
+    "geoCode": "FR",
+    "name": "France",
+    "value": 39
+   },
+   {
+    "geoCode": "LB",
+    "name": "Lebanon",
+    "value": 36
+   },
+   {
+    "geoCode": "AE",
+    "name": "United Arab Emirates",
+    "value": 35
+   },
+   {
+    "geoCode": "ET",
+    "name": "Ethiopia",
+    "value": 34
+   },
+   {
+    "geoCode": "CI",
+    "name": "C\u00f4te d\u2019Ivoire",
+    "value": 34
+   },
+   {
+    "geoCode": "CH",
+    "name": "Switzerland",
+    "value": 32
+   },
+   {
+    "geoCode": "GH",
+    "name": "Ghana",
+    "value": 32
+   },
+   {
+    "geoCode": "CO",
+    "name": "Colombia",
+    "value": 32
+   },
+   {
+    "geoCode": "MA",
+    "name": "Morocco",
+    "value": 32
+   },
+   {
+    "geoCode": "UZ",
+    "name": "Uzbekistan",
+    "value": 31
+   },
+   {
+    "geoCode": "BO",
+    "name": "Bolivia",
+    "value": 29
+   },
+   {
+    "geoCode": "ID",
+    "name": "Indonesia",
+    "value": 29
+   },
+   {
+    "geoCode": "IN",
+    "name": "India",
+    "value": 28
+   },
+   {
+    "geoCode": "PA",
+    "name": "Panama",
+    "value": 28
+   },
+   {
+    "geoCode": "BD",
+    "name": "Bangladesh",
+    "value": 28
+   },
+   {
+    "geoCode": "EC",
+    "name": "Ecuador",
+    "value": 27
+   },
+   {
+    "geoCode": "NG",
+    "name": "Nigeria",
+    "value": 27
+   },
+   {
+    "geoCode": "BE",
+    "name": "Belgium",
+    "value": 27
+   },
+   {
+    "geoCode": "AU",
+    "name": "Australia",
+    "value": 26
+   },
+   {
+    "geoCode": "CR",
+    "name": "Costa Rica",
+    "value": 26
+   },
+   {
+    "geoCode": "KR",
+    "name": "South Korea",
+    "value": 25
+   },
+   {
+    "geoCode": "PT",
+    "name": "Portugal",
+    "value": 25
+   },
+   {
+    "geoCode": "IL",
+    "name": "Israel",
+    "value": 24
+   },
+   {
+    "geoCode": "NL",
+    "name": "Netherlands",
+    "value": 24
+   },
+   {
+    "geoCode": "CA",
+    "name": "Canada",
+    "value": 24
+   },
+   {
+    "geoCode": "NZ",
+    "name": "New Zealand",
+    "value": 23
+   },
+   {
+    "geoCode": "TW",
+    "name": "Taiwan",
+    "value": 23
+   },
+   {
+    "geoCode": "CL",
+    "name": "Chile",
+    "value": 23
+   },
+   {
+    "geoCode": "TH",
+    "name": "Thailand",
+    "value": 22
+   },
+   {
+    "geoCode": "ZA",
+    "name": "South Africa",
+    "value": 22
+   },
+   {
+    "geoCode": "VN",
+    "name": "Vietnam",
+    "value": 21
+   },
+   {
+    "geoCode": "MY",
+    "name": "Malaysia",
+    "value": 21
+   },
+   {
+    "geoCode": "BR",
+    "name": "Brazil",
+    "value": 21
+   },
+   {
+    "geoCode": "AR",
+    "name": "Argentina",
+    "value": 20
+   },
+   {
+    "geoCode": "DE",
+    "name": "Germany",
+    "value": 20
+   },
+   {
+    "geoCode": "DO",
+    "name": "Dominican Republic",
+    "value": 20
+   },
+   {
+    "geoCode": "UY",
+    "name": "Uruguay",
+    "value": 20
+   },
+   {
+    "geoCode": "PH",
+    "name": "Philippines",
+    "value": 20
+   },
+   {
+    "geoCode": "RO",
+    "name": "Romania",
+    "value": 19
+   },
+   {
+    "geoCode": "ES",
+    "name": "Spain",
+    "value": 18
+   },
+   {
+    "geoCode": "AT",
+    "name": "Austria",
+    "value": 18
+   },
+   {
+    "geoCode": "DK",
+    "name": "Denmark",
+    "value": 18
+   },
+   {
+    "geoCode": "EG",
+    "name": "Egypt",
+    "value": 18
+   },
+   {
+    "geoCode": "GB",
+    "name": "United Kingdom",
+    "value": 17
+   },
+   {
+    "geoCode": "IE",
+    "name": "Ireland",
+    "value": 17
+   },
+   {
+    "geoCode": "IT",
+    "name": "Italy",
+    "value": 17
+   },
+   {
+    "geoCode": "HK",
+    "name": "Hong Kong",
+    "value": 17
+   },
+   {
+    "geoCode": "JO",
+    "name": "Jordan",
+    "value": 17
+   },
+   {
+    "geoCode": "US",
+    "name": "United States",
+    "value": 17
+   },
+   {
+    "geoCode": "NO",
+    "name": "Norway",
+    "value": 16
+   },
+   {
+    "geoCode": "DZ",
+    "name": "Algeria",
+    "value": 16
+   },
+   {
+    "geoCode": "RS",
+    "name": "Serbia",
+    "value": 16
+   },
+   {
+    "geoCode": "GT",
+    "name": "Guatemala",
+    "value": 15
+   },
+   {
+    "geoCode": "HR",
+    "name": "Croatia",
+    "value": 15
+   },
+   {
+    "geoCode": "CZ",
+    "name": "Czechia",
+    "value": 14
+   },
+   {
+    "geoCode": "BG",
+    "name": "Bulgaria",
+    "value": 14
+   },
+   {
+    "geoCode": "SE",
+    "name": "Sweden",
+    "value": 14
+   },
+   {
+    "geoCode": "GR",
+    "name": "Greece",
+    "value": 14
+   },
+   {
+    "geoCode": "FI",
+    "name": "Finland",
+    "value": 13
+   },
+   {
+    "geoCode": "KZ",
+    "name": "Kazakhstan",
+    "value": 13
+   },
+   {
+    "geoCode": "SK",
+    "name": "Slovakia",
+    "value": 13
+   },
+   {
+    "geoCode": "MX",
+    "name": "Mexico",
+    "value": 13
+   },
+   {
+    "geoCode": "SA",
+    "name": "Saudi Arabia",
+    "value": 13
+   },
+   {
+    "geoCode": "HU",
+    "name": "Hungary",
+    "value": 11
+   },
+   {
+    "geoCode": "TR",
+    "name": "T\u00fcrkiye",
+    "value": 11
+   },
+   {
+    "geoCode": "JP",
+    "name": "Japan",
+    "value": 10
+   },
+   {
+    "geoCode": "PL",
+    "name": "Poland",
+    "value": 10
+   },
+   {
+    "geoCode": "UA",
+    "name": "Ukraine",
+    "value": 9
+   },
+   {
+    "geoCode": "RU",
+    "name": "Russia",
+    "value": 9
+   },
+   {
+    "geoCode": "VE",
+    "name": "Venezuela",
+    "value": 7
+   },
+   {
+    "geoCode": "IR",
+    "name": "Iran",
+    "value": 6
+   }
+  ],
+  "cities": [],
+  "topQueries": [
+   {
+    "query": "ai claude",
+    "value": 100,
+    "link": "https://trends.google.com/trends/explore?q=ai+claude&date=today+3-m"
+   },
+   {
+    "query": "claude code",
+    "value": 39,
+    "link": "https://trends.google.com/trends/explore?q=claude+code&date=today+3-m"
+   },
+   {
+    "query": "anthropic",
+    "value": 12,
+    "link": "https://trends.google.com/trends/explore?q=anthropic&date=today+3-m"
+   },
+   {
+    "query": "claude anthropic",
+    "value": 12,
+    "link": "https://trends.google.com/trends/explore?q=claude+anthropic&date=today+3-m"
+   },
+   {
+    "query": "claude pro",
+    "value": 9,
+    "link": "https://trends.google.com/trends/explore?q=claude+pro&date=today+3-m"
+   },
+   {
+    "query": "what is claude",
+    "value": 9,
+    "link": "https://trends.google.com/trends/explore?q=what+is+claude&date=today+3-m"
+   },
+   {
+    "query": "github",
+    "value": 6,
+    "link": "https://trends.google.com/trends/explore?q=github&date=today+3-m"
+   },
+   {
+    "query": "claude api",
+    "value": 6,
+    "link": "https://trends.google.com/trends/explore?q=claude+api&date=today+3-m"
+   },
+   {
+    "query": "chatgpt ai",
+    "value": 6,
+    "link": "https://trends.google.com/trends/explore?q=chatgpt+ai&date=today+3-m"
+   },
+   {
+    "query": "ia claude",
+    "value": 6,
+    "link": "https://trends.google.com/trends/explore?q=ia+claude&date=today+3-m"
+   },
+   {
+    "query": "claude app",
+    "value": 6,
+    "link": "https://trends.google.com/trends/explore?q=claude+app&date=today+3-m"
+   },
+   {
+    "query": "download claude",
+    "value": 5,
+    "link": "https://trends.google.com/trends/explore?q=download+claude&date=today+3-m"
+   },
+   {
+    "query": "claude design",
+    "value": 5,
+    "link": "https://trends.google.com/trends/explore?q=claude+design&date=today+3-m"
+   },
+   {
+    "query": "claude fable",
+    "value": 5,
+    "link": "https://trends.google.com/trends/explore?q=claude+fable&date=today+3-m"
+   },
+   {
+    "query": "claude login",
+    "value": 5,
+    "link": "https://trends.google.com/trends/explore?q=claude+login&date=today+3-m"
+   },
+   {
+    "query": "claude pricing",
+    "value": 4,
+    "link": "https://trends.google.com/trends/explore?q=claude+pricing&date=today+3-m"
+   },
+   {
+    "query": "claude desktop",
+    "value": 4,
+    "link": "https://trends.google.com/trends/explore?q=claude+desktop&date=today+3-m"
+   },
+   {
+    "query": "codex",
+    "value": 4,
+    "link": "https://trends.google.com/trends/explore?q=codex&date=today+3-m"
+   },
+   {
+    "query": "claude skills",
+    "value": 4,
+    "link": "https://trends.google.com/trends/explore?q=claude+skills&date=today+3-m"
+   },
+   {
+    "query": "claude ai free",
+    "value": 4,
+    "link": "https://trends.google.com/trends/explore?q=claude+ai+free&date=today+3-m"
+   },
+   {
+    "query": "claude usage",
+    "value": 4,
+    "link": "https://trends.google.com/trends/explore?q=claude+usage&date=today+3-m"
+   },
+   {
+    "query": "claude cowork",
+    "value": 3,
+    "link": "https://trends.google.com/trends/explore?q=claude+cowork&date=today+3-m"
+   },
+   {
+    "query": "claude max",
+    "value": 3,
+    "link": "https://trends.google.com/trends/explore?q=claude+max&date=today+3-m"
+   },
+   {
+    "query": "claude cli",
+    "value": 3,
+    "link": "https://trends.google.com/trends/explore?q=claude+cli&date=today+3-m"
+   },
+   {
+    "query": "claude ai chat",
+    "value": 3,
+    "link": "https://trends.google.com/trends/explore?q=claude+ai+chat&date=today+3-m"
+   }
+  ],
+  "risingQueries": [
+   {
+    "query": "kimi k3",
+    "growth": "Breakout",
+    "growthPercent": null,
+    "isBreakout": true,
+    "link": "https://trends.google.com/trends/explore?q=kimi+k3&date=today+3-m"
+   },
+   {
+    "query": "claude fable 5.1",
+    "growth": "Breakout",
+    "growthPercent": null,
+    "isBreakout": true,
+    "link": "https://trends.google.com/trends/explore?q=claude+fable+5.1&date=today+3-m"
+   },
+   {
+    "query": "claude opus 5",
+    "growth": "+160%",
+    "growthPercent": 160,
+    "isBreakout": false,
+    "link": "https://trends.google.com/trends/explore?q=claude+opus+5&date=today+3-m"
+   },
+   {
+    "query": "claude ai chats",
+    "growth": "+100%",
+    "growthPercent": 100,
+    "isBreakout": false,
+    "link": "https://trends.google.com/trends/explore?q=claude+ai+chats&date=today+3-m"
+   },
+   {
+    "query": "higgsfield",
+    "growth": "+40%",
+    "growthPercent": 40,
+    "isBreakout": false,
+    "link": "https://trends.google.com/trends/explore?q=higgsfield&date=today+3-m"
+   }
+  ],
+  "topTopics": [],
+  "risingTopics": [],
+  "notes": [],
+  "trendsUrl": "https://trends.google.com/trends/explore?date=today+3-m&q=chatgpt%2Cclaude&hl=en-US",
+  "scrapedAt": "2026-10-05T14:42:34.323Z",
+  "inputUrlOrTerm": "chatgpt,claude",
+  "interestBySubregion": [
+   {
+    "geoCode": "MG",
+    "geoName": "Madagascar",
+    "value": [
+     100
+    ],
+    "formattedValue": [
+     "100"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "CN",
+    "geoName": "China",
+    "value": [
+     95
+    ],
+    "formattedValue": [
+     "95"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "WF",
+    "geoName": "Wallis & Futuna",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GP",
+    "geoName": "Guadeloupe",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BT",
+    "geoName": "Bhutan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BJ",
+    "geoName": "Benin",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NC",
+    "geoName": "New Caledonia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PK",
+    "geoName": "Pakistan",
+    "value": [
+     52
+    ],
+    "formattedValue": [
+     "52"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "RW",
+    "geoName": "Rwanda",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BI",
+    "geoName": "Burundi",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BL",
+    "geoName": "St. Barth\u00e9lemy",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "LK",
+    "geoName": "Sri Lanka",
+    "value": [
+     46
+    ],
+    "formattedValue": [
+     "46"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "ER",
+    "geoName": "Eritrea",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SG",
+    "geoName": "Singapore",
+    "value": [
+     45
+    ],
+    "formattedValue": [
+     "45"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "TG",
+    "geoName": "Togo",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "RE",
+    "geoName": "R\u00e9union",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NP",
+    "geoName": "Nepal",
+    "value": [
+     41
+    ],
+    "formattedValue": [
+     "41"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "KE",
+    "geoName": "Kenya",
+    "value": [
+     41
+    ],
+    "formattedValue": [
+     "41"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "DJ",
+    "geoName": "Djibouti",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TN",
+    "geoName": "Tunisia",
+    "value": [
+     40
+    ],
+    "formattedValue": [
+     "40"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "PE",
+    "geoName": "Peru",
+    "value": [
+     40
+    ],
+    "formattedValue": [
+     "40"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "MN",
+    "geoName": "Mongolia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PF",
+    "geoName": "French Polynesia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TL",
+    "geoName": "Timor-Leste",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "LU",
+    "geoName": "Luxembourg",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "FR",
+    "geoName": "France",
+    "value": [
+     39
+    ],
+    "formattedValue": [
+     "39"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "MU",
+    "geoName": "Mauritius",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AD",
+    "geoName": "Andorra",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "LB",
+    "geoName": "Lebanon",
+    "value": [
+     36
+    ],
+    "formattedValue": [
+     "36"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "CM",
+    "geoName": "Cameroon",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AE",
+    "geoName": "United Arab Emirates",
+    "value": [
+     35
+    ],
+    "formattedValue": [
+     "35"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "CG",
+    "geoName": "Congo - Brazzaville",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BF",
+    "geoName": "Burkina Faso",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "ET",
+    "geoName": "Ethiopia",
+    "value": [
+     34
+    ],
+    "formattedValue": [
+     "34"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "CI",
+    "geoName": "C\u00f4te d\u2019Ivoire",
+    "value": [
+     34
+    ],
+    "formattedValue": [
+     "34"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "GF",
+    "geoName": "French Guiana",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MF",
+    "geoName": "St. Martin",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SN",
+    "geoName": "Senegal",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CH",
+    "geoName": "Switzerland",
+    "value": [
+     32
+    ],
+    "formattedValue": [
+     "32"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "GH",
+    "geoName": "Ghana",
+    "value": [
+     32
+    ],
+    "formattedValue": [
+     "32"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "CO",
+    "geoName": "Colombia",
+    "value": [
+     32
+    ],
+    "formattedValue": [
+     "32"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "LI",
+    "geoName": "Liechtenstein",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MA",
+    "geoName": "Morocco",
+    "value": [
+     32
+    ],
+    "formattedValue": [
+     "32"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "KH",
+    "geoName": "Cambodia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "YT",
+    "geoName": "Mayotte",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NA",
+    "geoName": "Namibia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "UZ",
+    "geoName": "Uzbekistan",
+    "value": [
+     31
+    ],
+    "formattedValue": [
+     "31"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "MQ",
+    "geoName": "Martinique",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BW",
+    "geoName": "Botswana",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SB",
+    "geoName": "Solomon Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "VU",
+    "geoName": "Vanuatu",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BO",
+    "geoName": "Bolivia",
+    "value": [
+     29
+    ],
+    "formattedValue": [
+     "29"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "ID",
+    "geoName": "Indonesia",
+    "value": [
+     29
+    ],
+    "formattedValue": [
+     "29"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "IN",
+    "geoName": "India",
+    "value": [
+     28
+    ],
+    "formattedValue": [
+     "28"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "GA",
+    "geoName": "Gabon",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PA",
+    "geoName": "Panama",
+    "value": [
+     28
+    ],
+    "formattedValue": [
+     "28"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "ZW",
+    "geoName": "Zimbabwe",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BD",
+    "geoName": "Bangladesh",
+    "value": [
+     28
+    ],
+    "formattedValue": [
+     "28"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "KM",
+    "geoName": "Comoros",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "EC",
+    "geoName": "Ecuador",
+    "value": [
+     27
+    ],
+    "formattedValue": [
+     "27"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "NG",
+    "geoName": "Nigeria",
+    "value": [
+     27
+    ],
+    "formattedValue": [
+     "27"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "BE",
+    "geoName": "Belgium",
+    "value": [
+     27
+    ],
+    "formattedValue": [
+     "27"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "MV",
+    "geoName": "Maldives",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AU",
+    "geoName": "Australia",
+    "value": [
+     26
+    ],
+    "formattedValue": [
+     "26"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "CR",
+    "geoName": "Costa Rica",
+    "value": [
+     26
+    ],
+    "formattedValue": [
+     "26"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "SM",
+    "geoName": "San Marino",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SO",
+    "geoName": "Somalia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "KR",
+    "geoName": "South Korea",
+    "value": [
+     25
+    ],
+    "formattedValue": [
+     "25"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "FJ",
+    "geoName": "Fiji",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "KY",
+    "geoName": "Cayman Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SC",
+    "geoName": "Seychelles",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PT",
+    "geoName": "Portugal",
+    "value": [
+     25
+    ],
+    "formattedValue": [
+     "25"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "BH",
+    "geoName": "Bahrain",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "QA",
+    "geoName": "Qatar",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SZ",
+    "geoName": "Eswatini",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "IL",
+    "geoName": "Israel",
+    "value": [
+     24
+    ],
+    "formattedValue": [
+     "24"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "ST",
+    "geoName": "S\u00e3o Tom\u00e9 & Pr\u00edncipe",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NL",
+    "geoName": "Netherlands",
+    "value": [
+     24
+    ],
+    "formattedValue": [
+     "24"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "CA",
+    "geoName": "Canada",
+    "value": [
+     24
+    ],
+    "formattedValue": [
+     "24"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "LS",
+    "geoName": "Lesotho",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MT",
+    "geoName": "Malta",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CK",
+    "geoName": "Cook Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MZ",
+    "geoName": "Mozambique",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NZ",
+    "geoName": "New Zealand",
+    "value": [
+     23
+    ],
+    "formattedValue": [
+     "23"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "TW",
+    "geoName": "Taiwan",
+    "value": [
+     23
+    ],
+    "formattedValue": [
+     "23"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "KI",
+    "geoName": "Kiribati",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CL",
+    "geoName": "Chile",
+    "value": [
+     23
+    ],
+    "formattedValue": [
+     "23"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "AS",
+    "geoName": "American Samoa",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SL",
+    "geoName": "Sierra Leone",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MW",
+    "geoName": "Malawi",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "KN",
+    "geoName": "St. Kitts & Nevis",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TH",
+    "geoName": "Thailand",
+    "value": [
+     22
+    ],
+    "formattedValue": [
+     "22"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "LC",
+    "geoName": "St. Lucia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CY",
+    "geoName": "Cyprus",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GI",
+    "geoName": "Gibraltar",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "ZA",
+    "geoName": "South Africa",
+    "value": [
+     22
+    ],
+    "formattedValue": [
+     "22"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "MK",
+    "geoName": "North Macedonia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "VN",
+    "geoName": "Vietnam",
+    "value": [
+     21
+    ],
+    "formattedValue": [
+     "21"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "UG",
+    "geoName": "Uganda",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MY",
+    "geoName": "Malaysia",
+    "value": [
+     21
+    ],
+    "formattedValue": [
+     "21"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "CW",
+    "geoName": "Cura\u00e7ao",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BR",
+    "geoName": "Brazil",
+    "value": [
+     21
+    ],
+    "formattedValue": [
+     "21"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "AR",
+    "geoName": "Argentina",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "DE",
+    "geoName": "Germany",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "DO",
+    "geoName": "Dominican Republic",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "AO",
+    "geoName": "Angola",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "UY",
+    "geoName": "Uruguay",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "PH",
+    "geoName": "Philippines",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "VG",
+    "geoName": "British Virgin Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "EE",
+    "geoName": "Estonia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AM",
+    "geoName": "Armenia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BN",
+    "geoName": "Brunei",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "IS",
+    "geoName": "Iceland",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GN",
+    "geoName": "Guinea",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PY",
+    "geoName": "Paraguay",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NE",
+    "geoName": "Niger",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AL",
+    "geoName": "Albania",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "LT",
+    "geoName": "Lithuania",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "EH",
+    "geoName": "Western Sahara",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "RO",
+    "geoName": "Romania",
+    "value": [
+     19
+    ],
+    "formattedValue": [
+     "19"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "DM",
+    "geoName": "Dominica",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TZ",
+    "geoName": "Tanzania",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MR",
+    "geoName": "Mauritania",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SS",
+    "geoName": "South Sudan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BB",
+    "geoName": "Barbados",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PS",
+    "geoName": "Palestine",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MD",
+    "geoName": "Moldova",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SX",
+    "geoName": "Sint Maarten",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "OM",
+    "geoName": "Oman",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AZ",
+    "geoName": "Azerbaijan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "HT",
+    "geoName": "Haiti",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CV",
+    "geoName": "Cape Verde",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CF",
+    "geoName": "Central African Republic",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "ES",
+    "geoName": "Spain",
+    "value": [
+     18
+    ],
+    "formattedValue": [
+     "18"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "AT",
+    "geoName": "Austria",
+    "value": [
+     18
+    ],
+    "formattedValue": [
+     "18"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "LV",
+    "geoName": "Latvia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "DK",
+    "geoName": "Denmark",
+    "value": [
+     18
+    ],
+    "formattedValue": [
+     "18"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "XK",
+    "geoName": "Kosovo",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GE",
+    "geoName": "Georgia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "EG",
+    "geoName": "Egypt",
+    "value": [
+     18
+    ],
+    "formattedValue": [
+     "18"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "BQ",
+    "geoName": "Caribbean Netherlands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GB",
+    "geoName": "United Kingdom",
+    "value": [
+     17
+    ],
+    "formattedValue": [
+     "17"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "SV",
+    "geoName": "El Salvador",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BM",
+    "geoName": "Bermuda",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "IE",
+    "geoName": "Ireland",
+    "value": [
+     17
+    ],
+    "formattedValue": [
+     "17"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "IT",
+    "geoName": "Italy",
+    "value": [
+     17
+    ],
+    "formattedValue": [
+     "17"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "HK",
+    "geoName": "Hong Kong",
+    "value": [
+     17
+    ],
+    "formattedValue": [
+     "17"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "JO",
+    "geoName": "Jordan",
+    "value": [
+     17
+    ],
+    "formattedValue": [
+     "17"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "TD",
+    "geoName": "Chad",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "US",
+    "geoName": "United States",
+    "value": [
+     17
+    ],
+    "formattedValue": [
+     "17"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "ZM",
+    "geoName": "Zambia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NO",
+    "geoName": "Norway",
+    "value": [
+     16
+    ],
+    "formattedValue": [
+     "16"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "TC",
+    "geoName": "Turks & Caicos Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PW",
+    "geoName": "Palau",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "VC",
+    "geoName": "St. Vincent & Grenadines",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GG",
+    "geoName": "Guernsey",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "DZ",
+    "geoName": "Algeria",
+    "value": [
+     16
+    ],
+    "formattedValue": [
+     "16"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "LR",
+    "geoName": "Liberia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "HN",
+    "geoName": "Honduras",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AG",
+    "geoName": "Antigua & Barbuda",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TT",
+    "geoName": "Trinidad & Tobago",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "JE",
+    "geoName": "Jersey",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "JM",
+    "geoName": "Jamaica",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "WS",
+    "geoName": "Samoa",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "RS",
+    "geoName": "Serbia",
+    "value": [
+     16
+    ],
+    "formattedValue": [
+     "16"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "SI",
+    "geoName": "Slovenia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "IM",
+    "geoName": "Isle of Man",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GT",
+    "geoName": "Guatemala",
+    "value": [
+     15
+    ],
+    "formattedValue": [
+     "15"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "AW",
+    "geoName": "Aruba",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "LA",
+    "geoName": "Laos",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GQ",
+    "geoName": "Equatorial Guinea",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "HR",
+    "geoName": "Croatia",
+    "value": [
+     15
+    ],
+    "formattedValue": [
+     "15"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "ML",
+    "geoName": "Mali",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MP",
+    "geoName": "Northern Mariana Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CZ",
+    "geoName": "Czechia",
+    "value": [
+     14
+    ],
+    "formattedValue": [
+     "14"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "BG",
+    "geoName": "Bulgaria",
+    "value": [
+     14
+    ],
+    "formattedValue": [
+     "14"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "GD",
+    "geoName": "Grenada",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "KW",
+    "geoName": "Kuwait",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "VI",
+    "geoName": "U.S. Virgin Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "FO",
+    "geoName": "Faroe Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PG",
+    "geoName": "Papua New Guinea",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SE",
+    "geoName": "Sweden",
+    "value": [
+     14
+    ],
+    "formattedValue": [
+     "14"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "GR",
+    "geoName": "Greece",
+    "value": [
+     14
+    ],
+    "formattedValue": [
+     "14"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "PR",
+    "geoName": "Puerto Rico",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BZ",
+    "geoName": "Belize",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "FI",
+    "geoName": "Finland",
+    "value": [
+     13
+    ],
+    "formattedValue": [
+     "13"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "KZ",
+    "geoName": "Kazakhstan",
+    "value": [
+     13
+    ],
+    "formattedValue": [
+     "13"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "SK",
+    "geoName": "Slovakia",
+    "value": [
+     13
+    ],
+    "formattedValue": [
+     "13"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "GM",
+    "geoName": "Gambia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TO",
+    "geoName": "Tonga",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MX",
+    "geoName": "Mexico",
+    "value": [
+     13
+    ],
+    "formattedValue": [
+     "13"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "BS",
+    "geoName": "Bahamas",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SA",
+    "geoName": "Saudi Arabia",
+    "value": [
+     13
+    ],
+    "formattedValue": [
+     "13"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "SR",
+    "geoName": "Suriname",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NI",
+    "geoName": "Nicaragua",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "ME",
+    "geoName": "Montenegro",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "HU",
+    "geoName": "Hungary",
+    "value": [
+     11
+    ],
+    "formattedValue": [
+     "11"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "BA",
+    "geoName": "Bosnia & Herzegovina",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TR",
+    "geoName": "T\u00fcrkiye",
+    "value": [
+     11
+    ],
+    "formattedValue": [
+     "11"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "AX",
+    "geoName": "\u00c5land Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "JP",
+    "geoName": "Japan",
+    "value": [
+     10
+    ],
+    "formattedValue": [
+     "10"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "KG",
+    "geoName": "Kyrgyzstan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GY",
+    "geoName": "Guyana",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PL",
+    "geoName": "Poland",
+    "value": [
+     10
+    ],
+    "formattedValue": [
+     "10"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "GU",
+    "geoName": "Guam",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CD",
+    "geoName": "Congo - Kinshasa",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MO",
+    "geoName": "Macao",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "UA",
+    "geoName": "Ukraine",
+    "value": [
+     9
+    ],
+    "formattedValue": [
+     "9"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "RU",
+    "geoName": "Russia",
+    "value": [
+     9
+    ],
+    "formattedValue": [
+     "9"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "MM",
+    "geoName": "Myanmar (Burma)",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CU",
+    "geoName": "Cuba",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "IQ",
+    "geoName": "Iraq",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GW",
+    "geoName": "Guinea-Bissau",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "VE",
+    "geoName": "Venezuela",
+    "value": [
+     7
+    ],
+    "formattedValue": [
+     "7"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "TJ",
+    "geoName": "Tajikistan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "LY",
+    "geoName": "Libya",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AF",
+    "geoName": "Afghanistan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "IR",
+    "geoName": "Iran",
+    "value": [
+     6
+    ],
+    "formattedValue": [
+     "6"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "PM",
+    "geoName": "St. Pierre & Miquelon",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "YE",
+    "geoName": "Yemen",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BY",
+    "geoName": "Belarus",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SH",
+    "geoName": "St. Helena",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TM",
+    "geoName": "Turkmenistan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SD",
+    "geoName": "Sudan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SY",
+    "geoName": "Syria",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "FM",
+    "geoName": "Micronesia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "SJ",
+    "geoName": "Svalbard & Jan Mayen",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MH",
+    "geoName": "Marshall Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GL",
+    "geoName": "Greenland",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TV",
+    "geoName": "Tuvalu",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "FK",
+    "geoName": "Falkland Islands (Islas Malvinas)",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AQ",
+    "geoName": "Antarctica",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "UM",
+    "geoName": "U.S. Outlying Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MS",
+    "geoName": "Montserrat",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NF",
+    "geoName": "Norfolk Island",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TF",
+    "geoName": "French Southern Territories",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "VA",
+    "geoName": "Vatican City",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NU",
+    "geoName": "Niue",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "NR",
+    "geoName": "Nauru",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MC",
+    "geoName": "Monaco",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CX",
+    "geoName": "Christmas Island",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "TK",
+    "geoName": "Tokelau",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "AI",
+    "geoName": "Anguilla",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PN",
+    "geoName": "Pitcairn Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "KP",
+    "geoName": "North Korea",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "HM",
+    "geoName": "Heard & McDonald Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "CC",
+    "geoName": "Cocos (Keeling) Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "BV",
+    "geoName": "Bouvet Island",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "GS",
+    "geoName": "South Georgia & South Sandwich Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "IO",
+    "geoName": "British Indian Ocean Territory",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   }
+  ],
+  "interestByCity": []
+ }
+]
