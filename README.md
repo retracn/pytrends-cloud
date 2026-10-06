@@ -7,6 +7,8 @@
 + from pytrends_cloud.request import TrendReq
 ```
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/retracn/pytrends-cloud/blob/main/examples/google_trends_in_colab.ipynb) Try it in a Colab notebook, where the original library is usually blocked.
+
 ## Install
 
 ```bash
